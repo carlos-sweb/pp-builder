@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pp-is": "^1.0.9",
+    "pp-validate": "^1.0.1"
+  }
+}
